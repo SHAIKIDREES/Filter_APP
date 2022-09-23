@@ -1,5 +1,5 @@
 .btn-info:hover{
-    background-color: rgba(253, 78, 75, 0.895);
+    background-color: rgba(111, 244, 231, 0.895);
     
 }
 canvas{
@@ -10,9 +10,9 @@ animation-iteration-count: infinite;
 }
 @keyframes Filter{
     from{
-        box-shadow:1px 1px 30px rgb(76, 244, 241);
+        box-shadow:1px 1px 30px rgb(255, 0, 0);
     }
     to{
-        box-shadow: 1px 1px 30px rgb(0, 34, 113);
+        box-shadow: 1px 1px 30px rgb(255, 255, 0);
     }
 }
